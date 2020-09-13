@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  p.impact {
+    font-family: Impact, Charcoal, sans-serif;
+  }
+  body{
+    padding: 10px;
+    color: white;
+}
+img {
+  padding:0px;
+  border:0px;
+  margin:-2px;
+}
+.w3-myfont {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
